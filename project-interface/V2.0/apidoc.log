@@ -1,0 +1,94 @@
+六月 15, 2023 2:58:35 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: find java src paths:  [F:\NIITProject\project-interface\src\main\java\]
+六月 15, 2023 2:58:35 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: project type not set, try to figure out...
+六月 15, 2023 2:58:35 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: start find controllers in path : F:\NIITProject\project-interface\src\main\java\
+六月 15, 2023 2:58:35 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: find controller file : AccountController.java
+六月 15, 2023 2:58:35 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: find controller file : AttendController.java
+六月 15, 2023 2:58:35 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: find controller file : CourseController.java
+六月 15, 2023 2:58:35 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: find controller file : CourseStudentController.java
+六月 15, 2023 2:58:35 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: find controller file : ImageController.java
+六月 15, 2023 2:58:35 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: find controller file : IndexController.java
+六月 15, 2023 2:58:35 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: find controller file : LeaveController.java
+六月 15, 2023 2:58:35 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: find controller file : RecordController.java
+六月 15, 2023 2:58:35 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: start to parse controller file : AccountController.java
+六月 15, 2023 2:58:35 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: success to parse controller file : AccountController.java
+六月 15, 2023 2:58:35 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: start to parse controller file : AttendController.java
+六月 15, 2023 2:58:35 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: success to parse controller file : AttendController.java
+六月 15, 2023 2:58:35 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: start to parse controller file : CourseController.java
+六月 15, 2023 2:58:35 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: success to parse controller file : CourseController.java
+六月 15, 2023 2:58:35 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: start to parse controller file : CourseStudentController.java
+六月 15, 2023 2:58:35 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: success to parse controller file : CourseStudentController.java
+六月 15, 2023 2:58:35 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: start to parse controller file : ImageController.java
+六月 15, 2023 2:58:35 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: success to parse controller file : ImageController.java
+六月 15, 2023 2:58:35 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: start to parse controller file : IndexController.java
+六月 15, 2023 2:58:35 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: success to parse controller file : IndexController.java
+六月 15, 2023 2:58:35 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: start to parse controller file : LeaveController.java
+六月 15, 2023 2:58:35 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: success to parse controller file : LeaveController.java
+六月 15, 2023 2:58:35 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: start to parse controller file : RecordController.java
+六月 15, 2023 2:58:35 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: success to parse controller file : RecordController.java
+六月 15, 2023 2:58:35 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: generate api docs start...
+六月 15, 2023 2:58:35 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: start to generate docs for controller file : F:\NIITProject\project-interface\src\main\java\com\jdk\projectinterface\controller\AccountController.java
+六月 15, 2023 2:58:36 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: success to generate docs for controller file : F:\NIITProject\project-interface\src\main\java\com\jdk\projectinterface\controller\AccountController.java
+六月 15, 2023 2:58:36 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: start to generate docs for controller file : F:\NIITProject\project-interface\src\main\java\com\jdk\projectinterface\controller\AttendController.java
+六月 15, 2023 2:58:36 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: success to generate docs for controller file : F:\NIITProject\project-interface\src\main\java\com\jdk\projectinterface\controller\AttendController.java
+六月 15, 2023 2:58:36 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: start to generate docs for controller file : F:\NIITProject\project-interface\src\main\java\com\jdk\projectinterface\controller\CourseController.java
+六月 15, 2023 2:58:36 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: success to generate docs for controller file : F:\NIITProject\project-interface\src\main\java\com\jdk\projectinterface\controller\CourseController.java
+六月 15, 2023 2:58:36 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: start to generate docs for controller file : F:\NIITProject\project-interface\src\main\java\com\jdk\projectinterface\controller\CourseStudentController.java
+六月 15, 2023 2:58:36 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: success to generate docs for controller file : F:\NIITProject\project-interface\src\main\java\com\jdk\projectinterface\controller\CourseStudentController.java
+六月 15, 2023 2:58:36 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: start to generate docs for controller file : F:\NIITProject\project-interface\src\main\java\com\jdk\projectinterface\controller\ImageController.java
+六月 15, 2023 2:58:36 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: success to generate docs for controller file : F:\NIITProject\project-interface\src\main\java\com\jdk\projectinterface\controller\ImageController.java
+六月 15, 2023 2:58:36 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: start to generate docs for controller file : F:\NIITProject\project-interface\src\main\java\com\jdk\projectinterface\controller\IndexController.java
+六月 15, 2023 2:58:36 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: success to generate docs for controller file : F:\NIITProject\project-interface\src\main\java\com\jdk\projectinterface\controller\IndexController.java
+六月 15, 2023 2:58:36 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: start to generate docs for controller file : F:\NIITProject\project-interface\src\main\java\com\jdk\projectinterface\controller\LeaveController.java
+六月 15, 2023 2:58:36 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: success to generate docs for controller file : F:\NIITProject\project-interface\src\main\java\com\jdk\projectinterface\controller\LeaveController.java
+六月 15, 2023 2:58:36 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: start to generate docs for controller file : F:\NIITProject\project-interface\src\main\java\com\jdk\projectinterface\controller\RecordController.java
+六月 15, 2023 2:58:36 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: success to generate docs for controller file : F:\NIITProject\project-interface\src\main\java\com\jdk\projectinterface\controller\RecordController.java
+六月 15, 2023 2:58:36 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: generate index start !!!
+六月 15, 2023 2:58:36 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: generate index done !!!
+六月 15, 2023 2:58:36 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: generate api docs done !!!
